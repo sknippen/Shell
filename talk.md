@@ -25,6 +25,7 @@ Go out of the directory: `cd ..`
 $ pwd
 /home/kronop
 $ ls
+examples.desktop
 $ mkdir MY_FIRST_DIRECTORY
 $ ls
 examples.desktop  MY_FIRST_DIRECTORY
